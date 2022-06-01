@@ -1,0 +1,120 @@
+---
+title: "Reviving RainbowR"
+author: "Ella Kaye and Zane Dax (She/They)"
+format: 
+  revealjs:
+    theme: dark
+    logo: "RainbowR.png"
+    bg: 
+    incremental: true
+    scrollable: true
+editor: visual
+---
+
+## Overview
+
+![](RainbowR.png){.absolute height="250px" right="200px"}
+
+-   Notes about this session
+-   What is RainbowR?
+-   Who is it for?
+-   RainbowR:
+    -   past, present and future
+-   Work in Progress
+-   Connecting and brainstorming breakout
+-   Back together
+-   Next steps
+
+## RainbowR Introductions
+
+-   Ella (She/Her)
+-   Zane (She/They)
+-   `etherpad` document (link in chat, won't be shared)
+-   This session is confidential
+    -   not recorded
+    -   etherpad notes won't be publicly shared
+
+## Mission
+
+Our mission is to support, promote and connect LGBTQ+ people in the R community and to and spread awareness of LGBTQ+ issues through data-driven activism. LGBTQ+ people/ `RainbowR`s
+
+-   operating under [RLadies Code of Conduct](https://rladies.org/code-of-conduct/) (until the RainbowR one is finalised)
+-   any issues to rlgbtq\@gmail.com
+
+## RainbowR Mission (2)
+
+-   those who identify as being a minority sexual orientation, i.e. those who are not straight/heterosexual
+
+-   Part of the [R Forwards](https://forwards.github.io) Slackaton
+
+    -   Leading the R community forwards in widening the participation of women and other under-represented groups. **Safety is key**
+
+-   those who are not cisgender, i.e. those whose sense of personal identity and gender does not correspond with their birth sex To our straight, cis friends: we very much appreciate your allyship and your support of RainbowR, e.g. by sharing our information and posts on social media and by telling your friends and colleagues about us.
+
+## RainbowR Past
+
+-   Founded at useR!2017
+-   Infrastructure set up
+-   Attempt to revive in 2019
+
+## Present
+
+New-found time and enthusiasm (Ella)! New-found interest and driving-force in the group (Zane)! This is an announcement of intent to *really* get it going this time!
+
+## Existing infrastructure
+
+Social Media
+
+-   Slack <https://rainbowr.slack.com> (currently dormant)
+-   GitHub [rlgbtq](https://github.com/rlgbtq) (currently dormant)
+-   Twitter [\@R_LGBTQ](https://twitter.com/R_LGBTQ) (recently revived)
+
+## Future/Works in Progress
+
+-   Revive the Slack group (needs sign-up page)
+    -   Create sign-up form
+    -   New Code of Conduct and review process
+-   New website
+    -   Introductory blog-post
+    -   demo of new RainbowR [website](https://myquartoblog.netlify.app/)
+
+## Breakout rooms to connect with others
+
+Some topics to discuss:
+
+-   what would *you* like RainbowR to be, in order to best serve its community?
+
+-   ideas for blog-posts
+
+-   ideas for data sets for data-driven activism
+
+-   would you like to contribute and, if so, how?
+
+-   Notes on the `etherpad` (put link in chat again!)
+
+## Back together
+
+-   Share ideas from the breakout room
+-   Any questions?
+
+## Next steps
+
+-   Review and incorporate ideas from this session
+-   Complete work in progress
+-   Relaunch!
+    -   Announcements on Twitter
+    -   Announcements through other groups promoting diversity and community in R
+
+## Thank you!
+
+Thank you all for attending and being part of this community!
+
+<iframe src="https://giphy.com/embed/3og0IQ29pE7zRwbh60" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+</iframe>
+
+<p>
+
+<a href="https://giphy.com/gifs/love-heart-rainbow-3og0IQ29pE7zRwbh60">via GIPHY</a>
+
+</p>

@@ -1,2 +1,2 @@
-# first-test
-A test repo
+# RainbowR
+repo for RainbowR
